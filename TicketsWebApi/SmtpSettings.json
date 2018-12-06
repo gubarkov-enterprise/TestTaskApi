@@ -1,0 +1,8 @@
+﻿{
+  "SmtpData": {
+    "Address": "smtp.gmail.com",
+    "Port": "587",
+    "Login": "ticketpublicservice@gmail.com",
+    "Password": "ticket.service_gmail"
+  }
+}
